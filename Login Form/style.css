@@ -1,0 +1,96 @@
+body
+{
+    background-image: linear-gradient( 90deg,  rgba(31,212,248,1) 11%, rgba(218,15,183,1) 74.9% );
+}
+.a
+{
+    color: black;
+}
+.in
+{
+    width: 280px;
+    height: 20px;
+    border: none;
+    
+}
+.icon
+{
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#in3
+{
+    margin-left: 40px;
+    height: 40px;
+    width: 320px;
+    color: white;
+    background-image: linear-gradient( 90deg,  rgba(31,212,248,1) 11%, rgba(218,15,183,1) 74.9% );
+    border-radius: 40px;
+    border: none;  
+}
+
+.box
+{
+    width: 320px;
+    margin-left: 40px;
+    font-size: 12px;
+}
+#box1
+{
+    padding-top: 15px;
+    margin: 80px auto;
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+#box2
+{
+    text-align: center;
+    font-size: 15px;
+}
+
+#box4
+{
+    border-bottom: gray solid 1px;
+    color: gray;
+    margin-top: 10px;
+}        
+#box6
+{
+    color: gray;
+    border-bottom: gray solid 1px;
+    margin-top: 10px;
+}
+#box7
+{
+    margin-top: 10px;
+    text-align: right;
+}
+#box9
+{
+    text-align: center;
+    margin-top: 40px;
+    color: green;
+}
+#box10
+{
+    margin-top: 20px;
+    text-align: center;
+}
+#box11
+{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    margin-top: 100px;
+}
+#box12
+{
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+}
