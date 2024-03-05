@@ -1,0 +1,123 @@
+body
+{
+    background-image: url(./Images/pexels-pok-rie-139759.jpg);
+    background-size: cover;
+}
+#coverbody
+{
+    width: 1585px;
+    height: 773px;
+    background: #941cb3dc;
+    display: inline-block;
+}
+#outerbox
+{
+    padding: 10px;
+    width: 860px;
+    height: 500px;
+    font-family: 'Roboto', sans-serif;
+    margin: 120px auto;
+}
+#coverbox
+{
+    width: 420px;
+    height: 500px;
+    display: inline-block;
+    background-image: url(./Images/nagy-david-3S60HJk-c6o-unsplash\ \(1\).jpg);
+    background-size: cover;
+}
+#box1
+{
+    padding-left: 30px;
+    width: 420px;
+    height: 500px;
+    display: inline-block;
+    color: white;
+    background: #0813b3ad;
+}
+#box2
+{
+    margin-left: -5px;
+    padding-top: 50px;
+    padding-left: 60px;
+    background-color: white;
+    width: 380px;
+    height: 450px;
+    display: inline-block;
+}
+img
+{
+    height: 40px;
+    border-radius: 30px;
+}
+#img2
+{
+    width: 200px;
+    margin-left: 15px;
+}
+.inner
+{
+    width: 400px;
+}
+#inner1
+{
+    font-size: 52px;
+    line-height: 90px;
+}
+#inner2
+{
+    margin-top: -65px;
+    font-size: small;
+}
+.inner1
+{
+    width: 325px;
+}
+#inner6
+{
+    font-size: small;
+}
+.in
+{
+
+    margin-left: 10px;
+    border: none;
+    outline: none;
+    width: 300px;
+    height: 30px;  
+    font-size: 15px;
+}
+#inner7
+{
+    border-bottom: 2px solid gray;
+    padding-bottom: 5px;
+}
+#inner8
+{
+    border-bottom: 2px solid gray;
+    padding-bottom: 5px; 
+}
+#inner9
+{
+    font-size: smaller;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3px;
+}
+#in4
+{
+    background-color: rgb(64, 255, 47);
+    width: 120px;
+    height: 40px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 40px;
+    border: none;
+    box-shadow: 5px 5px 5px  grey;
+}
+#inner10
+{
+    text-align: right;
+    margin-top: 14px;
+}
