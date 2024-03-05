@@ -1,0 +1,72 @@
+body {
+    background-color: #363d64;
+    background-image: linear-gradient(43deg, #363d64 0%, #C850C0 27%, #FFCC70 100%);
+    
+}
+.outer {
+  height: 400px;
+  width: 250px;
+  background-color: white;
+  margin: auto;
+}
+.submit 
+{
+    background-color: #363d64;
+    background-image: linear-gradient(43deg, #363d64 0%, #C850C0 27%, #FFCC70 100%);
+    
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  width: 170px;
+  margin: 40px;
+  margin-top: 10px;
+
+}
+.name
+{
+    padding-left: 40px;
+    width: 150px;
+    border: none;
+    border-bottom: grey;
+    margin-top: 10px;
+}
+.heading
+{
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.email
+{
+    padding-left: 40px;
+    width: 100px;
+    border: none;
+    border-bottom: grey; 
+    margin-top: 10px;
+}
+.services
+{
+    padding-left: 40px;
+    width: 100px;
+    border: none;
+    border-bottom: grey;
+    margin-top: 10px;
+}
+.budget
+{
+    
+    padding-left: 40px;
+    width: 100px;
+    border: none;
+    border-bottom: grey;
+    margin-top: 10px;
+}
+.message
+{
+    
+    padding-left: 40px;
+    width: 80px;
+    border: none;
+    margin-top: 10px;
+}
